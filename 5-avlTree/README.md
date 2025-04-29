@@ -41,23 +41,6 @@ This Java program implements a self-balancing AVL (Adelson-Velsky and Landis) tr
   - static java.lang.Math.PI
   - static java.lang.Math.max
 
-## How to Use
-1. Compile the Java file:
-   ```
-   javac Laboratory/Main.java
-   ```
-
-2. Run the program:
-   ```
-   java Laboratory.Main
-   ```
-
-3. Use the menu to interact with the AVL tree:
-   - Enter `A` to insert a new value
-   - Enter `B` to delete a value
-   - Enter `C` to view the current tree structure
-   - Enter `D` to view the tree and exit the program
-
 ## Example Output
 
 ```
